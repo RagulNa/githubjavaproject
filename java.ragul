@@ -1,0 +1,12 @@
+public class Demo{
+  public static void main(String[]args){
+    String[] a={"iii","aaa","ddd"}
+    for(int i=0;i<a.length;i++){
+      System.out.println(a[i].startsWith(0));
+
+      }
+
+    }
+
+
+  }
